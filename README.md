@@ -1,2 +1,8 @@
 # Cool-Realm-Pack
 Comfy and cool resource and data pack for the "I yearn for diamonds" realm. By Jake H.
+
+How to download and run:
+1) Download the "Cool Realm Pack v1.0" folder
+2) Open Minecraft, click "Options..." -> "Resource Packs..." -> "Open Pack Folder..."
+3) Paste "Cool Realm Pack v1.0" into the "resource packs" folder that was opened on the previous step.
+4) Click the right arrow icon on the resource pack to load it in!
